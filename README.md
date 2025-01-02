@@ -5,4 +5,4 @@
 
 ### Output 2: Responsive View
 
-![output2](https://github.com/user-attachments/assets/7782ec9f-94b7-430e-bebf-522639310f86)
+![output2](https://github.com/user-attachments/assets/cc60c3d6-59c1-41b8-8d7d-50182c10862b)
